@@ -1,4 +1,4 @@
-# AES_Gig-a-Watts
+# DRAFT - AES Challenge - Gig-a-Watts
 
 This is a test submission for the final round of the AES Innovation Challenge.      
 Our *final* presentation is through a different repository.     
