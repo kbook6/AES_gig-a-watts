@@ -1,6 +1,7 @@
 # AES_Gig-a-Watts
 
-This is our final submission for the final round of the AES Innovation Challenge.      
+This is a test submission for the final round of the AES Innovation Challenge.      
+Our *final* presentation is through a different repository.     
 
 ## Our Team     
 We are a team of 4 graduate students from Texas A&M University.     
